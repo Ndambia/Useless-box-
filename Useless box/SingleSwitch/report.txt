@@ -1,0 +1,5 @@
+Plotted to 'C:\Users\Stuxs\Documents\Proteus\Kicad Files\Docs\SingleSwitch.plt'.
+Plotted to 'C:\Users\Stuxs\Documents\Proteus\Kicad Files\Docs\SingleSwitch.pdf'.
+
+Info: Done.
+Info: Done.
